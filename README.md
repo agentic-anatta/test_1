@@ -1,6 +1,6 @@
 # test_1
 
-Minimal Node.js server (no dependencies) that displays the `HELLO_WORLD` environment variable.
+Minimal Node.js server (no dependencies) that displays the `HELLO_WORLD` environment variable in a small styled HTML page.
 
 ## Run
 
