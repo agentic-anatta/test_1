@@ -5,7 +5,7 @@ Minimal Node.js server (no dependencies) that displays the `HELLO_WORLD` environ
 ## Run
 
 ```
-HELLO_WORLD=hi node server.js
+HELLO_WORLD=world node server.js
 ```
 
 Then open http://localhost:8080/
